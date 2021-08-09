@@ -1,2 +1,4 @@
 # AWS_Academy_ML
-Labs  'AWS Academy Machine Learning Foundations'
+Laboratorios de la materia 'AWS Academy Machine Learning Foundations' de la Diplomatura en Ciencia de Datos, Aprendizaje Automático y sus Aplicaciones de la FAMAF-UNC 
+
+Fecha de dictado: 10/2020
